@@ -1,0 +1,4 @@
+components ディレクトリ
+
+components ディレクトリには Vue.js のコンポーネントファイルを入れます。Nuxt.js は components ディレクトリ内のコンポーネントの data メソッドについては手を加えません（訳注: 一方、Nuxt.js は pages ディレクトリ内のコンポーネントの data メソッドには非同期データを扱えるよう手を加えます）
+

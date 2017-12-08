@@ -1,0 +1,7 @@
+plugins ディレクトリ
+
+plugins ディレクトリには、ルートの Vue.js アプリケーションをインスタンス化する前に実行したい JavaScript プラグインを入れます。
+
+プラグインについてより深く理解するには プラグインに関するドキュメント を参照してください。
+
+https://ja.nuxtjs.org/guide/plugins

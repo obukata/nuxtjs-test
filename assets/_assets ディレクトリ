@@ -1,0 +1,7 @@
+assets ディレクトリ
+
+assets ディレクトリには LESS や SASS、JavaScript のようなコンパイルされていないファイルを入れます。
+
+アセットの取り扱いについてより深く理解するには アセットに関するドキュメント を参照してください。
+
+https://ja.nuxtjs.org/guide/assets
