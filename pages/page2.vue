@@ -1,11 +1,39 @@
 <template>
 	<div>
-		<h1>page2</h1>
-		<p>aa</p>
-			<ul>
-			<li><a href="/">index</a></li>
-			<li><a href="/page1">page1</a></li>
-			<li><a href="/page2">page2</a></li>
-		</ul>
+
+	<Header />
+
+		<div class="container">
+			<div class="demo-headline">
+				<h1 class="demo-logo">
+					<div class="logo"></div>
+					Page2
+					<small>Study for Nuxt.js</small>
+				</h1>
+			</div>
+
+			<div class="row demo-row">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae aspernatur illo asperiores, quos, reiciendis facere unde omnis nesciunt quam distinctio dolores velit non deserunt totam. Nisi, sint accusamus nihil repellendus!</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae aspernatur illo asperiores, quos, reiciendis facere unde omnis nesciunt quam distinctio dolores velit non deserunt totam. Nisi, sint accusamus nihil repellendus!</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae aspernatur illo asperiores, quos, reiciendis facere unde omnis nesciunt quam distinctio dolores velit non deserunt totam. Nisi, sint accusamus nihil repellendus!</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae aspernatur illo asperiores, quos, reiciendis facere unde omnis nesciunt quam distinctio dolores velit non deserunt totam. Nisi, sint accusamus nihil repellendus!</p>
+			</div>
+
+		</div>
+
+		<Footer />
+
 	</div>
 </template>
+
+<script>
+import Header from '~/components/Header.vue'
+import Footer from '~/components/Footer.vue'
+
+export default {
+	components: {
+		Header,
+		Footer
+	}
+}
+</script>

@@ -4,6 +4,7 @@
 		"dev": "nuxt"
 	},
 	"dependencies": {
+		"foundation-sites": "^6.4.4-rc1",
 		"nuxt": "^1.0.0-rc11"
 	}
 }
