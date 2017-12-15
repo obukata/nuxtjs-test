@@ -14,7 +14,7 @@
 
 			<h2 class="demo-panel-title">Buttons</h2>
 
-			<div class="row demo-row">
+			<div class="demo-row">
 				<div class="col-xs-4">
 					<a href="/" class="btn btn-block btn-lg btn-primary">Home</a>
 				</div>

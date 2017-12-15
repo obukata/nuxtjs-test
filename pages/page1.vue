@@ -14,7 +14,7 @@
 
 			<h2 class="demo-panel-title">Title</h2>
 
-			<div class="row demo-row">
+			<div class="demo-row">
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae aspernatur illo asperiores, quos, reiciendis facere unde omnis nesciunt quam distinctio dolores velit non deserunt totam. Nisi, sint accusamus nihil repellendus!</p>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae aspernatur illo asperiores, quos, reiciendis facere unde omnis nesciunt quam distinctio dolores velit non deserunt totam. Nisi, sint accusamus nihil repellendus!</p>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae aspernatur illo asperiores, quos, reiciendis facere unde omnis nesciunt quam distinctio dolores velit non deserunt totam. Nisi, sint accusamus nihil repellendus!</p>
@@ -24,7 +24,7 @@
 
 			<h2 class="demo-panel-title">Title2</h2>
 
-			<div class="row demo-row">
+			<div class="demo-row">
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae aspernatur illo asperiores, quos, reiciendis facere unde omnis nesciunt quam distinctio dolores velit non deserunt totam. Nisi, sint accusamus nihil repellendus!</p>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae aspernatur illo asperiores, quos, reiciendis facere unde omnis nesciunt quam distinctio dolores velit non deserunt totam. Nisi, sint accusamus nihil repellendus!</p>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae aspernatur illo asperiores, quos, reiciendis facere unde omnis nesciunt quam distinctio dolores velit non deserunt totam. Nisi, sint accusamus nihil repellendus!</p>
